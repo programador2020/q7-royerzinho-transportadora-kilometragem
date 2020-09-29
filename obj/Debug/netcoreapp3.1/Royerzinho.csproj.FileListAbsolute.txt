@@ -1,0 +1,13 @@
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\Royerzinho\bin\Debug\netcoreapp3.1\Royerzinho.exe
+C:\Users\Windows10\source\repos\Royerzinho\bin\Debug\netcoreapp3.1\Royerzinho.deps.json
+C:\Users\Windows10\source\repos\Royerzinho\bin\Debug\netcoreapp3.1\Royerzinho.runtimeconfig.json
+C:\Users\Windows10\source\repos\Royerzinho\bin\Debug\netcoreapp3.1\Royerzinho.runtimeconfig.dev.json
+C:\Users\Windows10\source\repos\Royerzinho\bin\Debug\netcoreapp3.1\Royerzinho.dll
+C:\Users\Windows10\source\repos\Royerzinho\bin\Debug\netcoreapp3.1\Royerzinho.pdb
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.dll
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.pdb
+C:\Users\Windows10\source\repos\Royerzinho\obj\Debug\netcoreapp3.1\Royerzinho.genruntimeconfig.cache
